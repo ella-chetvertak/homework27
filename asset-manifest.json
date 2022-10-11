@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ReactMAN/static/css/main.cabf48fc.css",
-    "main.js": "/ReactMAN/static/js/main.ef8c8519.js",
-    "static/js/787.abc2c3be.chunk.js": "/ReactMAN/static/js/787.abc2c3be.chunk.js",
-    "static/media/logo.svg": "/ReactMAN/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ReactMAN/index.html",
-    "main.cabf48fc.css.map": "/ReactMAN/static/css/main.cabf48fc.css.map",
-    "main.ef8c8519.js.map": "/ReactMAN/static/js/main.ef8c8519.js.map",
-    "787.abc2c3be.chunk.js.map": "/ReactMAN/static/js/787.abc2c3be.chunk.js.map"
+    "main.css": "/homework27/static/css/main.cabf48fc.css",
+    "main.js": "/homework27/static/js/main.9eaaac71.js",
+    "static/js/787.abc2c3be.chunk.js": "/homework27/static/js/787.abc2c3be.chunk.js",
+    "static/media/logo.svg": "/homework27/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/homework27/index.html",
+    "main.cabf48fc.css.map": "/homework27/static/css/main.cabf48fc.css.map",
+    "main.9eaaac71.js.map": "/homework27/static/js/main.9eaaac71.js.map",
+    "787.abc2c3be.chunk.js.map": "/homework27/static/js/787.abc2c3be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cabf48fc.css",
-    "static/js/main.ef8c8519.js"
+    "static/js/main.9eaaac71.js"
   ]
 }
